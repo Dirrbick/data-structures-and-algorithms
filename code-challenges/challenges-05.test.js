@@ -299,7 +299,7 @@ describe('Testing challenge 8', () => {
   });
 });
 
-describe('Testing challenge 9', () => {
+xdescribe('Testing challenge 9', () => {
   test('It should return the string without vowels', () => {
     expect(removeVowels('gregor')).toStrictEqual('grgr');
     expect(removeVowels('gregor').length).toStrictEqual(4);
@@ -308,7 +308,7 @@ describe('Testing challenge 9', () => {
   });
 });
 
-describe('Testing challenge 10', () => {
+xdescribe('Testing challenge 10', () => {
   test('It should return the string without vowels', () => {
     expect(extractVowels('gregor')).toStrictEqual(['grgr', 'eo']);
     expect(extractVowels('gregor').length).toStrictEqual(2);
