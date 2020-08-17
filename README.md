@@ -16,6 +16,9 @@
 - [Code Challenge 13](/code-challenges/challenges-13.test.js)
 - [Code Challenge 14](/code-challenges/challenges-14.test.js)
 
+## Code Challenge Tests
+- [Tests](/javascript/__tests)
+
 ## Arrays
-- [Reverse](/javascript/arrayReverse/array-reverse.js)
-- [Shift](/javascript/arrayShift/array-shift.js)
+- [Reverse Array Code](/javascript/arrayReverse/array-reverse.js) [README](/javascript/arrayReverse/README.md)
+- [Shift Array Code](/javascript/arrayShift/array-shift.js)  [README](/javascript/arrayShift/README.md)
